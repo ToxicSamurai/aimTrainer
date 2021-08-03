@@ -1,3 +1,6 @@
+//ToxicSamurai
+//You may use, but not edit or infringe my code
+
 float posX;
 float posY;
 int ms, lastTime, lastTimeHolder, bestTime, score;
