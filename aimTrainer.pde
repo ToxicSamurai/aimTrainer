@@ -1,5 +1,5 @@
 //ToxicSamurai
-//You may use, but not edit or infringe my code
+//You may use, but not edit/infringe my code without credit
 
 float posX;
 float posY;
