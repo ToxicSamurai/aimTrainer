@@ -1,5 +1,6 @@
 //ToxicSamurai
 //Licensed under Creative Commons CC-BY-NC-SA
+//Commented and updated version can be found in the aimTrainerMaster repository on my account (https://github.com/ToxicSamurai)
 
 float posX;
 float posY;
